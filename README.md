@@ -24,25 +24,27 @@ Build a scaled prototype robot (PMR) that:
 ![System diagram](docs/diagrams/system-diagram.png)
 
 ## LabVIEW Program
-![Front panel](docs/screenshots/front-panel.png)
-![Block diagram](docs/screenshots/block-diagram.png)
-
-<!-- 2-3 sentences on program flow: line following -> bin pickup -> identification -> drop-off -> return -->
+![Block diagram 1](docs/screenshots/1.png
+![Block diagram 2](docs/screenshots/2.png)
+![Block diagram 3](docs/screenshots/3.png)
+![Block diagram 4](docs/screenshots/4.png)
+![Block diagram 5](docs/screenshots/5.png)
+![Block diagram 6](docs/screenshots/6.png)
 
 ## Results
 
 | # | Requirement | Result | Notes |
 |---|---|---|---|
-| 1 | Navigation and path following | ✅ Achieved | Completed Zones 1–7, subtask stations, and the full track |
-| 2 | Bin identification | ✅ Achieved | Identified weight and material (organic, ceramic, metal), met the 80% accuracy target |
-| 3 | Fully autonomous run | ❌ Not achieved | Dotted-line sensing sometimes misread, sending the robot off track |
-| 4 | Durability on uneven terrain | ⚪ Not tested | Sturdy build with tank tracks; not tested in the final demo |
-| 5 | Return to separator/shredder | 🟡 Partial | Completed one full drop-off and return; could not enter Zone 1 of the final track because it was not programmed to |
-| 6 | Ease of maintenance | ⚪ Not tested | EV3 parts and LabVIEW code are easy to repair and modify |
-| 7 | Storage and deployment | ⚪ Not tested | Designed within the 40 x 40 x 50 cm limit |
-| 8 | Load capacity | ✅ Achieved | Picked up, carried, and dropped bins of 25, 75, and 125 g (±20 g) with no loss of stability |
+| 1 | Navigation and path following | Achieved | Completed Zones 1–7, subtask stations, and the full track |
+| 2 | Bin identification | Achieved | Identified weight and material (organic, ceramic, metal), met the 80% accuracy target |
+| 3 | Fully autonomous run | Not achieved | Dotted-line sensing sometimes misread, sending the robot off track |
+| 4 | Durability on uneven terrain | Not tested | Sturdy build with tank tracks; not tested in the final demo |
+| 5 | Return to separator/shredder | Partial | Completed one full drop-off and return; could not enter Zone 1 of the final track because it was not programmed to |
+| 6 | Ease of maintenance | Not tested | EV3 parts and LabVIEW code are easy to repair and modify |
+| 7 | Storage and deployment | Not tested | Designed within the 40 x 40 x 50 cm limit |
+| 8 | Load capacity | Achieved | Picked up, carried, and dropped bins of 25, 75, and 125 g (±20 g) with no loss of stability |
 
-## What We Learned
+## Takeaways
 - **Iterative design and testing:** small changes in code or hardware had a big effect on performance, so every test run guided the next fix.
 - **Sensor calibration:** light sensor calibration strongly affected line following, especially on dotted and curved paths.
 - **Programming for autonomy:** we wrote modular, fault-tolerant code so the robot could run a full task sequence without help.
@@ -54,4 +56,8 @@ Build a scaled prototype robot (PMR) that:
 - Matched tasks to each member's strengths to save time and improve productivity
 
 ## Team
-<!-- Names and roles -->
+- Ethan Do: Project Leader
+- Jackson Kain: Design Engineer
+- Gerardo Ramos-Tapia: Documentation & Quality engineer
+- Adam Bentley: Analysis Engineer
+
