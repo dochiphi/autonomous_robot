@@ -23,7 +23,6 @@ Build a scaled prototype robot (PMR) that:
 ![Robot view 2](docs/media/photos/2.png)
 ![Robot view 3](docs/media/photos/3.png)
 ![Robot view 4](docs/media/photos/4.png)
-![Robot view 5](docs/media/photos/5.png)
 
 ## System Diagram
 ![System diagram](docs/diagrams/system-diagram.png)
