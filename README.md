@@ -15,10 +15,10 @@ Build a scaled prototype robot (PMR) that:
 - Delivers it to the correct processing station and returns
 
 ## Project Diagram
-# Functional diagram
+### Functional diagram
 ![Functional diagram](docs/diagrams/fcn-diagram.png)
 
-# Gantt Chart
+### Gantt Chart
 ![Gantt chart](docs/diagrams/gantt-chart.png)
 
 ## Hardware and Software
@@ -27,14 +27,14 @@ Build a scaled prototype robot (PMR) that:
 - LabVIEW
 - Size limit: 40 cm x 40 cm x 50 cm
 
-# Hardware system
+### Hardware system
 ![System diagram](docs/diagrams/system-diagram.png)
-![Robot view 1](docs/media/photos/1.png)
-![Robot view 2](docs/media/photos/2.png)
-![Robot view 3](docs/media/photos/3.png)
-![Robot view 4](docs/media/photos/4.png)
+![Robot view 1](docs/media/photos/1.jpg)
+![Robot view 2](docs/media/photos/2.jpg)
+![Robot view 3](docs/media/photos/3.jpg)
+![Robot view 4](docs/media/photos/4.jpg)
 
-# LabVIEW Program
+### LabVIEW Program
 ![Block diagram 1](docs/screenshots/1.png)
 ![Block diagram 2](docs/screenshots/2.png)
 ![Block diagram 3](docs/screenshots/3.png)
