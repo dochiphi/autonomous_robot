@@ -29,10 +29,7 @@ Build a scaled prototype robot (PMR) that:
 
 ### Hardware system
 ![System diagram](docs/diagrams/system-diagram.png)
-![Robot view 1](media/photos/1.jpg)
-![Robot view 2](media/photos/2.jpg)
-![Robot view 3](media/photos/3.jpg)
-![Robot view 4](media/photos/4.jpg)
+![Robot view 1](media/photos/build.png)
 
 ### LabVIEW Program
 ![Block diagram 1](docs/screenshots/1.png)
