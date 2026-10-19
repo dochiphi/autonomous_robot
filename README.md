@@ -14,22 +14,27 @@ Build a scaled prototype robot (PMR) that:
 - Identifies the bin's weight and material
 - Delivers it to the correct processing station and returns
 
+## Project Diagram
+# Functional diagram
+![Functional diagram](docs/diagrams/fcn-diagram.png)
+
+# Gantt Chart
+![Gantt chart](docs/diagrams/gantt-chart.png)
+
 ## Hardware and Software
 - LEGO EV3 brick and sensors
 - Tank tracks for uneven terrain
 - LabVIEW
 - Size limit: 40 cm x 40 cm x 50 cm
+
+# Hardware system
+![System diagram](docs/diagrams/system-diagram.png)
 ![Robot view 1](docs/media/photos/1.png)
 ![Robot view 2](docs/media/photos/2.png)
 ![Robot view 3](docs/media/photos/3.png)
 ![Robot view 4](docs/media/photos/4.png)
 
-## System Diagram
-![System diagram](docs/diagrams/system-diagram.png)
-![Functional diagram](docs/diagrams/fcn-diagram.png)
-![Gantt chart](docs/diagrams/gantt-chart.png)
-
-## LabVIEW Program
+# LabVIEW Program
 ![Block diagram 1](docs/screenshots/1.png)
 ![Block diagram 2](docs/screenshots/2.png)
 ![Block diagram 3](docs/screenshots/3.png)
