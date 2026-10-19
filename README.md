@@ -24,7 +24,7 @@ Build a scaled prototype robot (PMR) that:
 ![System diagram](docs/diagrams/system-diagram.png)
 
 ## LabVIEW Program
-![Block diagram 1](docs/screenshots/1.png
+![Block diagram 1](docs/screenshots/1.png)
 ![Block diagram 2](docs/screenshots/2.png)
 ![Block diagram 3](docs/screenshots/3.png)
 ![Block diagram 4](docs/screenshots/4.png)
