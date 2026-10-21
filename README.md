@@ -1,7 +1,7 @@
 # Autonomous Debris-Transport Robot (PMR)
 
 <p align="center">
-  <img src="media/videos/demo.gif" width="600">
+  <img src="media/videos/demo.gif" width="300">
 </p>
 <p align="center">
 
