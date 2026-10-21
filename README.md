@@ -1,6 +1,9 @@
 # Autonomous Debris-Transport Robot (PMR)
 
-![Demo](media/videos/demo.gif)
+<p align="center">
+  <img src="media/videos/demo.gif" width="600">
+</p>
+<p align="center">
 
 A scaled prototype robot that autonomously moves debris bins inside a mobile Thermal Depolymerization (TDP) plant. Built with LEGO EV3 and programmed in LabVIEW.
 
